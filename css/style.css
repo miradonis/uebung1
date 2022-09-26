@@ -1,0 +1,19 @@
+header {
+    background-color: gray;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: red;
+}
+
+section p:nth-of-type(1) {
+    color: red;
+}
+
+span {
+    color: red;
+}
